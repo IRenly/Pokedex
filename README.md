@@ -1,12 +1,28 @@
-# React + Vite
+# Pokédex en React ⚡
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto de **Pokédex** desarrollado con **React y Tailwind CSS**, que permite buscar y visualizar información sobre Pokémon's en tiempo real utilizando la [PokeAPI](https://pokeapi.co/).
 
-Currently, two official plugins are available:
+## 🚀 Características
+✅ **Búsqueda rápida** por nombre de Pokémon.  
+✅ **Lista de Pokémon** obtenida desde la API.  
+✅ **Interfaz responsiva** con diseño moderno usando Tailwind CSS.  
+✅ **Vista de detalles** con información relevante del Pokémon.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Capturas de Pantalla
+![Captura de la Pokédex](https://github.com/user-attachments/assets/ec4ee762-a5f7-42ec-bd5e-085716e943cf)  
+![Captura de la Pokédex](https://github.com/user-attachments/assets/ebf0d334-adda-4854-a72d-8873d38daaa8)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologías Utilizadas
+- **React.js** (Vite) ⚛️
+- **Tailwind CSS** 🎨
+- **Axios** (Para consumir la API) 🔥
+- **PokeAPI** 🏆
+
+## 📦 Instalación y Uso
+   ```sh
+
+   cd pokedex
+   npm install
+   npm run dev
+   ```
