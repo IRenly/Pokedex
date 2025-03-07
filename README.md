@@ -4,8 +4,7 @@ Este es un proyecto de **Pokédex** desarrollado con **React y Tailwind CSS**, q
 
 ## 🚀 Características
 ✅ **Búsqueda rápida** por nombre de Pokémon.  
-✅ **Lista de Pokémon** obtenida desde la API.  
-✅ **Interfaz responsiva** con diseño moderno usando Tailwind CSS.  
+✅ **Lista de Pokémon con sus imagenes** obtenida desde la API.  
 ✅ **Vista de detalles** con información relevante del Pokémon.  
 
 ## 📸 Capturas de Pantalla
